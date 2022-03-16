@@ -20,7 +20,7 @@ Panel P2;
 Panel P3;
 TextArea txt;
 
-Public VentanaConLayout(){
+public VentanaConLayout(){
     btn = new Button("");
     P1 = new Panel();
     P2 = new Panel();
