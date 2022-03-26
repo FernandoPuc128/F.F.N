@@ -22,7 +22,6 @@ public class Ventana extends Canvas{
 	//Constructor
 	public Ventana() {
 		try {
-			img= ImageIO.read(getClass().getResourceAsStream("/fresa.png"));
 			i1= ImageIO.read(getClass().getResourceAsStream("/1.png"));
 			i2= ImageIO.read(getClass().getResourceAsStream("/2.png"));
 			i3= ImageIO.read(getClass().getResourceAsStream("/3.png"));

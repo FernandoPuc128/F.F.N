@@ -91,4 +91,10 @@ public class Ventana extends Frame implements ActionListener {
 		   }
         });
 	}
+
+    public void setX(int x) {
+    }
+
+    public void setSprite() {
+    }
 }

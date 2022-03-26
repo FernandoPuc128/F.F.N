@@ -4,15 +4,7 @@ import java.awt.Color;
 import java.awt.Graphics;
 
 public class Mundo extends Canvas {
-	//Pintar algo 
-	//Canvas es un lienzo, pitar, diujar o rayar
-	//Sore escriir el m�todo 
-	//public void paint(Graphics g) {
-		//Graphis es como ua pluma, y co el Cavas diujamos
-		//g.setColor(Color.BLACK);//Poer color a la pluma
-		//g.drawString("Hola" ,20 , 20);//Hacer el diujo, dram solo lieas y el fild solo cotor
-		//Estacio en x y y
-		//Detro de u panel
+	
 	int x,y;
 	int w,h;
 	public Mundo() {
